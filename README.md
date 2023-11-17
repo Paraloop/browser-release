@@ -4,7 +4,7 @@ Paraloop browser is currently being updated. Get ready for a whole new release o
 # paraloop-browser
 Offline/Application version of the Paraloop Browser
 ## updating
-the current version of paraloop offline is out of date. A new version is being published.
+just updated paraloop offline!! <3 | november 17, 2023
 ## documentation
 this documentation is important for installing and running the paraloop offline browser
 ### installation
