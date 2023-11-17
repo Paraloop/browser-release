@@ -8,6 +8,6 @@ just updated paraloop offline!! <3 | november 17, 2023
 ## documentation
 this documentation is important for installing and running the paraloop offline browser
 ### installation
-Windows installation - read the howto.txt within the unzipped folder
-MacOS installation - simply unzip the file then run the .app file
+Windows installation - read the howto.txt within the unzipped folder ||
+MacOS installation - simply unzip the file then run the .app file ||
 HTML - just open the file.
