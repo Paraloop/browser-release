@@ -8,5 +8,6 @@ the current version of paraloop offline is out of date. A new version is being p
 ## documentation
 this documentation is important for installing and running the paraloop offline browser
 ### installation
-1. Run the file
-2. you are done
+Windows installation - read the howto.txt within the unzipped folder
+MacOS installation - simply unzip the file then run the .app file
+HTML - just open the file.
